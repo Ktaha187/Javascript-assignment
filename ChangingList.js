@@ -1,0 +1,11 @@
+let Guests = ['Umair','Uzair','Ahmed','Shaheer','Samad'];
+console.log(Guests[2] + " is not coming in dinner");
+NewGuest = 'Ghulam';
+Guests.splice(2,1,NewGuest);
+console.log(Guests);
+console.log("New List");
+console.log(Guests[0] + invitation);
+console.log(Guests[1] + invitation);
+console.log(Guests[2] + invitation);
+console.log(Guests[3] + invitation);
+console.log(Guests[4] + invitation);
